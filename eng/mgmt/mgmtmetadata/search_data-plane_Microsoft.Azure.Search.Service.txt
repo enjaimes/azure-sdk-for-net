@@ -1,0 +1,14 @@
+﻿Installing AutoRest version: latest
+AutoRest installed successfully.
+Commencing code generation
+Generating CSharp code
+Executing AutoRest command
+cmd.exe /c autorest.cmd https://github.com/enjaimes/azure-rest-api-specs/blob/Update-Limits-ServiceStats-API/specification/search/data-plane/Microsoft.Azure.Search.Service/readme.md --csharp --version=latest --reflect-api-versions --csharp-sdks-folder=C:\repos\azure-sdk-for-net\sdk
+2019-07-25 20:57:24 UTC
+Azure-rest-api-specs repository information
+GitHub fork: enjaimes
+Branch:      Update-Limits-ServiceStats-API
+Commit:      93440916a4b4efadf7d6351ccd165583aa36b91e
+AutoRest information
+Requested version: latest
+Bootstrapper version:    autorest@2.0.4283
